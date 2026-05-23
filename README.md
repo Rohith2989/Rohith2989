@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer & AI Systems Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Adumalapelli%20Rohith;11x%20National%20Hackathon%20Winner;Full-Stack%20Developer;AI%20Systems%20Architect;30M%2B%20Daily%20Request%20Optimizer&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Adumalapelli%20Rohith;11x%20National%20Hackathon%20Winner;Full-Stack%20Developer;AI%20Systems%20Architect;1.5+Years%20at%20Technirmaan&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 ## 💫 About Me
 
 - 🧑‍💻 **Full-Stack Developer & AI Systems Architect** | B.Tech CSE Class of 2028 @ **CMR College of Engineering & Technology (9.5 CGPA)**
-- ⚙️ Developed and optimized core API integrations for platforms handling **30M+ daily requests** at **Technirmaan (skila.in)**
+- ⚙️ Currently working for the past **1.5 years** at **Technirmaan (skila.in)**, a dynamic e-learning startup with 50-60 employees. Here, I design modular state management layers and backend integrations optimized to handle **30M+ daily requests** and serve **5,000+ active users**.
 - 🤖 Specialized in **Agentic AI**, **RAG (FAISS)**, sandboxed execution runtime setups, and SSE pipeline flows
 - 🏆 **11x National Hackathon Champion** (Technical Lead & System Architect)
-- 🚀 Passionate about high-concurrency systems, competitive programming (**200+ LeetCode**, **150+ Codeforces** solved)
+- 🚀 Passionate about high-concurrency systems, competitive programming (**300+ LeetCode**, **150+ Codeforces** solved)
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
@@ -30,36 +30,13 @@
 
 ## 🧠 Languages & Tools
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" title="Dart"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/> &nbsp;
-  
-  <!-- Frontend & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" title="Flutter"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/> &nbsp;
-
-  <!-- Backend & DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" title="Firebase"/> &nbsp;
-
-  <!-- Devops & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" title="Nginx"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=selenium" width="45" title="Selenium"/> &nbsp;
-
-  <!-- AI Modules -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="OpenAI"/> &nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=subspace&logoColor=white) |
+| **Frontend & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & Databases** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **AI & Data Science** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A5%97-Hugging%20Face-FFD21E?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
