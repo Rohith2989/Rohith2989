@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer & AI Systems Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Adumalapelli%20Rohith;11x%20National%20Hackathon%20Winner;Full-Stack%20Developer;AI%20Systems%20Architect;1.5+Years%20at%20Technirmaan&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Adumalapelli%20Rohith;11x%20National%20Hackathon%20Winner;Full-Stack%20Developer;AI%20Systems%20Architect;Works%20at%20Technirmaan&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
 
 <p align="center">
