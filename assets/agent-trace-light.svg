@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="700" viewBox="0 0 860 700" role="img" aria-label="An AI agent trace rendering Rohith's GitHub profile">
+  <!-- If you're reading the source: yes, even this comment was compiled. -->
+  <style>
+    .t { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 13px; fill: #1f2328; }
+    .small { font-size: 12px; }
+    .f { fill: #1f2328; }
+    .d { fill: #656d76; }
+    .g { fill: #1a7f37; }
+    .c { fill: #0969da; }
+    .p { fill: #8250df; }
+    .y { fill: #9a6700; }
+    .o { fill: #bc4c00; }
+    .fade { opacity: 0; animation: fi 0.32s ease-out forwards; }
+    .wipe { clip-path: inset(-4px 101% -4px -6px); clip-path: inset(-4px 101% -4px -6px) fill-box; animation: wp 0.9s steps(40, end) forwards; }
+    .cur { opacity: 0; animation: fi 0.2s ease-out 14.2s forwards, bl 1.1s steps(2, jump-none) 14.6s infinite; }
+    .live { animation: pulse 2s ease-in-out infinite; }
+    .px { opacity: 0; animation: fi 0.3s ease-out forwards; }
+    @keyframes fi { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes wp { to { clip-path: inset(-4px -6px -4px -6px); clip-path: inset(-4px -6px -4px -6px) fill-box; } }
+    @keyframes bl { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .wipe, .px, .cur, .live { animation: none; }
+      .fade, .px, .cur { opacity: 1; }
+      .wipe { clip-path: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="name-grad" gradientUnits="userSpaceOnUse" x1="220" y1="0" x2="638" y2="0">
+      <stop offset="0" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#8250df"/>
+    </linearGradient>
+    <clipPath id="win"><rect x="1" y="1" width="858" height="698" rx="12"/></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="858" height="698" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <g clip-path="url(#win)">
+    <rect x="1" y="1" width="858" height="44" fill="#f6f8fa"/>
+  </g>
+  <line x1="1" y1="45" x2="859" y2="45" stroke="#d0d7de"/>
+  <circle cx="26" cy="23" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="23" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="23" r="6" fill="#28c840"/>
+  <text x="430" y="27" text-anchor="middle" class="t small d">stellar · agent-runtime v2.1 — rohith@prod</text>
+  <circle cx="712" cy="23" r="4" fill="#1a7f37" class="live"/>
+  <text x="724" y="27" class="t small d">synced <tspan id="telemetry-date">2026-08-11</tspan></text>
+
+  <!-- $ prompt + typed command -->
+  <text x="28" y="80" class="t g">$</text>
+  <text x="44" y="80" class="t wipe" style="animation-delay:0.5s;animation-duration:1.7s">stellar run --task <tspan class="g">"render profile @Rohith2989"</tspan></text>
+
+  <!-- boot -->
+  <text x="28" y="122" class="t fade" style="animation-delay:2.5s"><tspan class="d">[boot]</tspan>   sandbox     <tspan class="d">docker://stellar-runtime:latest ·············</tspan> <tspan class="g">up in 114 ms</tspan></text>
+  <text x="28" y="143" class="t fade" style="animation-delay:2.9s"><tspan class="d">[boot]</tspan>   tools       vector_db · github_api · sse_stream · render   <tspan class="g">4 loaded</tspan></text>
+  <text x="28" y="164" class="t fade" style="animation-delay:3.5s"><tspan class="p">[agent]</tspan>  plan        identity → work → wins → metrics → render</text>
+
+  <!-- vector search -->
+  <text x="28" y="206" class="t fade" style="animation-delay:4.3s"><tspan class="c">[tool]</tspan>   <tspan class="c">vector_db.search</tspan><tspan class="d">(</tspan>query=<tspan class="g">"who is rohith?"</tspan>, k=<tspan class="y">3</tspan><tspan class="d">)</tspan></text>
+  <text x="28" y="227" class="t fade" style="animation-delay:5.0s"><tspan class="d">         ├─</tspan> <tspan class="y">0.96</tspan>  <tspan class="o">identity.md</tspan>   Adumalapelli Rohith — full-stack dev &amp; AI systems architect</text>
+  <text x="28" y="248" class="t fade" style="animation-delay:5.35s"><tspan class="d">         │</tspan>                      <tspan class="d">B.Tech CSE '28 @ CMRCET · CGPA 9.5</tspan></text>
+  <text x="28" y="269" class="t fade" style="animation-delay:5.7s"><tspan class="d">         ├─</tspan> <tspan class="y">0.93</tspan>  <tspan class="o">work.md</tspan>       Technirmaan (skila.in) · 1.5 yrs · backend + state mgmt</text>
+  <text x="28" y="290" class="t fade" style="animation-delay:6.05s"><tspan class="d">         │</tspan>                      <tspan class="d">30M+ requests/day · 5,000+ active users</tspan></text>
+  <text x="28" y="311" class="t fade" style="animation-delay:6.4s"><tspan class="d">         └─</tspan> <tspan class="y">0.91</tspan>  <tspan class="o">wins.md</tspan>       11× national hackathon champion</text>
+
+  <!-- github metrics -->
+  <text x="28" y="353" class="t fade" style="animation-delay:7.2s"><tspan class="c">[tool]</tspan>   <tspan class="c">github.metrics</tspan><tspan class="d">(</tspan>user=<tspan class="g">"Rohith2989"</tspan><tspan class="d">)</tspan></text>
+  <text x="28" y="374" class="t fade" style="animation-delay:7.8s"><tspan class="d">         {</tspan> repos: <tspan class="y" id="stat-repos">13</tspan>, commits_ytd: <tspan class="y" id="stat-commits">30</tspan>, solved: <tspan class="g">"300+ leetcode · 150+ codeforces"</tspan> <tspan class="d">}</tspan></text>
+
+  <!-- streaming -->
+  <text x="28" y="416" class="t fade" style="animation-delay:8.6s"><tspan class="p">[agent]</tspan>  streaming response <tspan class="p">▸</tspan></text>
+  <text x="28" y="437" class="t wipe" style="animation-delay:9.1s;animation-duration:1.1s">  builds agentic AI platforms — <tspan class="c">Stellar</tspan>: sandboxed exec, SSE loopbacks, LLM dashboards</text>
+  <text x="28" y="458" class="t wipe" style="animation-delay:10.3s;animation-duration:1.0s">  ships local-first RAG — <tspan class="c">LearnWave</tspan>: FAISS-powered semantic document search</text>
+  <text x="28" y="479" class="t wipe" style="animation-delay:11.4s;animation-duration:0.9s">  this profile was <tspan class="g">compiled from source</tspan>, not copied from a template.</text>
+
+  <!-- name render: ROHITH in pixel rects (no font dependency) -->
+  <g fill="url(#name-grad)">
+    <rect x="220" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.75s"/>
+    <rect x="232" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.70s"/>
+    <rect x="244" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.65s"/>
+    <rect x="256" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.60s"/>
+    <rect x="220" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.90s"/>
+    <rect x="268" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.70s"/>
+    <rect x="220" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="268" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:12.85s"/>
+    <rect x="220" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="232" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.30s"/>
+    <rect x="244" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:13.10s"/>
+    <rect x="256" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="220" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.50s"/>
+    <rect x="244" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="220" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.65s"/>
+    <rect x="256" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.50s"/>
+    <rect x="220" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.80s"/>
+    <rect x="268" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.60s"/>
+    <rect x="304" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="316" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="328" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.30s"/>
+    <rect x="292" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.60s"/>
+    <rect x="340" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="292" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:12.75s"/>
+    <rect x="340" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:12.55s"/>
+    <rect x="292" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.90s"/>
+    <rect x="340" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.70s"/>
+    <rect x="292" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="340" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.85s"/>
+    <rect x="292" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="340" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:13.00s"/>
+    <rect x="304" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.45s"/>
+    <rect x="316" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="328" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="364" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:13.00s"/>
+    <rect x="412" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.80s"/>
+    <rect x="364" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.30s"/>
+    <rect x="412" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.95s"/>
+    <rect x="364" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:12.45s"/>
+    <rect x="412" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:13.10s"/>
+    <rect x="364" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.60s"/>
+    <rect x="376" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.55s"/>
+    <rect x="388" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.50s"/>
+    <rect x="400" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.45s"/>
+    <rect x="412" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="364" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.75s"/>
+    <rect x="412" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.55s"/>
+    <rect x="364" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.90s"/>
+    <rect x="412" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.70s"/>
+    <rect x="364" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="412" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.85s"/>
+    <rect x="436" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.70s"/>
+    <rect x="448" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.65s"/>
+    <rect x="460" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.60s"/>
+    <rect x="472" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.55s"/>
+    <rect x="484" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.50s"/>
+    <rect x="460" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.75s"/>
+    <rect x="460" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:12.90s"/>
+    <rect x="460" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="460" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="460" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.50s"/>
+    <rect x="436" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.75s"/>
+    <rect x="448" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.70s"/>
+    <rect x="460" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.65s"/>
+    <rect x="472" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.60s"/>
+    <rect x="484" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.55s"/>
+    <rect x="508" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="520" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="532" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.30s"/>
+    <rect x="544" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:13.10s"/>
+    <rect x="556" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="532" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.45s"/>
+    <rect x="532" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:12.60s"/>
+    <rect x="532" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.75s"/>
+    <rect x="532" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.90s"/>
+    <rect x="532" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="532" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="580" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.95s"/>
+    <rect x="628" y="506" width="10" height="10" rx="2" class="px" style="animation-delay:12.75s"/>
+    <rect x="580" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:13.10s"/>
+    <rect x="628" y="518" width="10" height="10" rx="2" class="px" style="animation-delay:12.90s"/>
+    <rect x="580" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="628" y="530" width="10" height="10" rx="2" class="px" style="animation-delay:13.05s"/>
+    <rect x="580" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.55s"/>
+    <rect x="592" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.50s"/>
+    <rect x="604" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.45s"/>
+    <rect x="616" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.40s"/>
+    <rect x="628" y="542" width="10" height="10" rx="2" class="px" style="animation-delay:12.35s"/>
+    <rect x="580" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.70s"/>
+    <rect x="628" y="554" width="10" height="10" rx="2" class="px" style="animation-delay:12.50s"/>
+    <rect x="580" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.85s"/>
+    <rect x="628" y="566" width="10" height="10" rx="2" class="px" style="animation-delay:12.65s"/>
+    <rect x="580" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:13.00s"/>
+    <rect x="628" y="578" width="10" height="10" rx="2" class="px" style="animation-delay:12.80s"/>
+  </g>
+
+  <!-- done -->
+  <text x="28" y="638" class="t fade" style="animation-delay:13.5s"><tspan class="g">[done]</tspan>   profile rendered in 2.31 s · <tspan class="g">0 hallucinations</tspan> · exit 0</text>
+
+  <!-- resting prompt -->
+  <text x="28" y="672" class="t g fade" style="animation-delay:14.2s">$</text>
+  <rect x="44" y="659" width="8" height="16" fill="#1f2328" class="cur"/>
+</svg>
