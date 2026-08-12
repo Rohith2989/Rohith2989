@@ -44,7 +44,7 @@
   <circle cx="66" cy="23" r="6" fill="#28c840"/>
   <text x="430" y="27" text-anchor="middle" class="t small d">stellar · agent-runtime v2.1 — rohith@prod</text>
   <circle cx="712" cy="23" r="4" fill="#3fb950" class="live"/>
-  <text x="724" y="27" class="t small d">synced <tspan id="telemetry-date">2026-08-11</tspan></text>
+  <text x="724" y="27" class="t small d">synced <tspan id="telemetry-date">2026-08-12</tspan></text>
 
   <!-- $ prompt + typed command -->
   <text x="28" y="80" class="t g">$</text>
@@ -65,7 +65,7 @@
 
   <!-- github metrics -->
   <text x="28" y="353" class="t fade" style="animation-delay:7.2s"><tspan class="c">[tool]</tspan>   <tspan class="c">github.metrics</tspan><tspan class="d">(</tspan>user=<tspan class="g">"Rohith2989"</tspan><tspan class="d">)</tspan></text>
-  <text x="28" y="374" class="t fade" style="animation-delay:7.8s"><tspan class="d">         {</tspan> repos: <tspan class="y" id="stat-repos">13</tspan>, commits_ytd: <tspan class="y" id="stat-commits">30</tspan>, solved: <tspan class="g">"300+ leetcode · 150+ codeforces"</tspan> <tspan class="d">}</tspan></text>
+  <text x="28" y="374" class="t fade" style="animation-delay:7.8s"><tspan class="d">         {</tspan> repos: <tspan class="y" id="stat-repos">13</tspan>, commits_ytd: <tspan class="y" id="stat-commits">32</tspan>, solved: <tspan class="g">"300+ leetcode · 150+ codeforces"</tspan> <tspan class="d">}</tspan></text>
 
   <!-- streaming -->
   <text x="28" y="416" class="t fade" style="animation-delay:8.6s"><tspan class="p">[agent]</tspan>  streaming response <tspan class="p">▸</tspan></text>
