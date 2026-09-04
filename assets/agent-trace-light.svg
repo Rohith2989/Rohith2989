@@ -44,7 +44,7 @@
   <circle cx="66" cy="23" r="6" fill="#28c840"/>
   <text x="430" y="27" text-anchor="middle" class="t small d">stellar · agent-runtime v2.1 — rohith@prod</text>
   <circle cx="712" cy="23" r="4" fill="#1a7f37" class="live"/>
-  <text x="724" y="27" class="t small d">synced <tspan id="telemetry-date">2026-09-03</tspan></text>
+  <text x="724" y="27" class="t small d">synced <tspan id="telemetry-date">2026-09-04</tspan></text>
 
   <!-- $ prompt + typed command -->
   <text x="28" y="80" class="t g">$</text>
